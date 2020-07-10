@@ -1,0 +1,44 @@
+body{
+width:800px;
+margin:20px auto;
+font-family:Arial,"MS Trebuchet", sans-serif;
+text-align: center;
+}
+
+h1.sub{
+color:grey;
+width:100%;
+border-bottom-style:solid
+}
+
+/*
+Adicionar uma linha abaixo dos elementos p da classe sub
+*/
+
+
+p.sub{
+font-weight: bold;
+color:green;
+border-bottom-style:solid;
+}
+
+footer.pagina{
+background-color:black;
+margin-top:30px;
+padding:20px;
+font-size:15px;
+text-align:black;
+color:white;
+}
+
+table.horario{
+width:100%;
+border:1px solid black;
+border-collapse:separate
+}
+table.horario tr{
+border: 1px solid black;
+}
+table.horario td, table.horario th{
+border: 1px solid black;
+} 
